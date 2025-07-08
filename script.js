@@ -28,8 +28,8 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("terminal-intro").classList.add("fade-out");
         setTimeout(() => {
           document.getElementById("terminal-intro").style.display = "none";
-        }, 1000);
-      }, 1000);
+        }, 500);
+      }, 500);
     }
   }
 
