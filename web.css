@@ -175,3 +175,8 @@ footer {
     opacity: 1;
   }
 }
+
+.nav-link {
+  display:block;
+  padding:15px
+ }

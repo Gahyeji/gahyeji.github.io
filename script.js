@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   const lines = [
     "booting gahyeji.github.io...",
-    "loading modules: [cybersecurity, japanese, korean, CTF]",
+    "loading modules: [cybersecurity, coding, CTF]",
     "initialisation complete.",
     "↳ welcome !"
   ];
